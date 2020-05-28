@@ -4,4 +4,4 @@ print("And now it lives on GitHub")
 
 print("Initiate 2")
 
-print("Life2")
+print("Life")
